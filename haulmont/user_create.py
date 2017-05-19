@@ -11,7 +11,7 @@ from mydata import tezis
 
 
 path_csv = 'C:/users.txt'
-base_url = "http://localhost:48080/"
+base_url = "http://localhost:28080/"
 
 user_create_data = {'login': '[1]', 'psswd': '[2]', 'conf_psswd': '[3]',
                     'surname': '[4]', 'mail': '[8]'}
